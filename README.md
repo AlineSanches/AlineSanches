@@ -14,6 +14,8 @@
   
 <div align="center"> 
   <a href="https://www.linkedin.com/in/alineasanches" target="_blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/AlineSanches/AlineSanches/blob/output/github-contribution-grid-snake.svg)
 </div>
   
 <!--
